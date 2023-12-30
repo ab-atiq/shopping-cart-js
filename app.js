@@ -42,7 +42,7 @@ document.getElementById('case-minus').addEventListener('click', function () {
 
 
 
-// case money amount will increse with increase input value
+// case money amount will increase with increase input value
 /* 
 function updateCaseNumber(isIncreasing) {
     const inputCount = document.getElementById('case-count');
@@ -112,7 +112,7 @@ document.getElementById('case-minus').addEventListener('click', function () {
 
 
 
-// meaningfull variable name like ==  caseTotal to productTotal
+// meaningful variable name like ==  caseTotal to productTotal
 /* 
 function updateProductNumber(product, price, isIncreasing) {
     const inputCount = document.getElementById(product + '-count');
