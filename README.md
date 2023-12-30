@@ -1,5 +1,6 @@
 # Shopping Cart JS
 ```
-1. Click plus icon to update price of the phone and case
-2. Click minus icon to update the price of the phone and case
+1. Click the plus icon to update the price of the phone and case
+2. Click the minus icon to update the price of the phone and case
 ```
+## Used Language - HTML, JavaScript and Bootstrap CSS for Styling.
